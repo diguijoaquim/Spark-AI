@@ -1,0 +1,14 @@
+# Web Framework & Server
+fastapi
+uvicorn[standard]
+Jinja2
+
+# AI & LangChain
+langchain
+groq
+pydantic
+
+# Tools & Utilities
+googlesearch-python
+fpdf2
+requests
